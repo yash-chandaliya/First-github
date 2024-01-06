@@ -1,2 +1,4 @@
 # First-github
-This is My First Repository Author yash
+This is My First Repository.
+<br>
+ Author yash
